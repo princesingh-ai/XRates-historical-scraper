@@ -92,17 +92,6 @@ cargo doc --open
 
 This generates documentation from the source code's documentation comments and opens it in your browser.
 
-## Learning Goals
-
-This project provided hands-on practice with:
-
-- Rust modules and code organization
-- Structs, ownership, borrowing, and type checking
-- Asynchronous functions and task management with Tokio
-- HTTP requests using `reqwest`
-- HTML parsing and basic data validation
-- File I/O and exporting structured data
-
 ## Limitations
 
 - The scraper depends on the HTML structure of x-rates.com, which may change over time.
